@@ -29,11 +29,19 @@
 
 ## Скріншоти виконання результату
 
-**1. Головна сторінка (Новини)**
-![Головна сторінка](img/home.jpg)
-
-**2. Фотогалерея**
-![Фотогалерея](img/gallery.jpg)
-
-**3. Профіль (Форма реєстрації)**
-![Профіль](img/profile.jpg)
+<table style="width: 100%">
+  <tr>
+    <td align="center" style="width: 33%">
+      <b>1. Головна (Новини)</b><br>
+      <img src="img/home.jpg" width="250">
+    </td>
+    <td align="center" style="width: 33%">
+      <b>2. Фотогалерея</b><br>
+      <img src="img/gallery.jpg" width="250">
+    </td>
+    <td align="center" style="width: 33%">
+      <b>3. Профіль</b><br>
+      <img src="img/profile.jpg" width="250">
+    </td>
+  </tr>
+</table>
