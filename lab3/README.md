@@ -24,10 +24,18 @@
 
 ## 3. Скріншоти роботи застосунку
 
-![Головний екран (Клікер)](./assets/screenshot1.jpg)
-![Екран досягнень](./assets/screenshot2.jpg)
-![Налаштування теми](./assets/screenshot3.jpg)
-![Темна тема - Досягнення](./assets/screenshot4.jpg)
+<table>
+  <tr>
+    <td align="center"><b>1. Головний екран</b></td>
+    <td align="center"><b>2. Взаємодія (Жести)</b></td>
+    <td align="center"><b>3. Зміна теми</b></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshot1.jpg" width="250"></td>
+    <td><img src="./assets/screenshot2.jpg" width="250"></td>
+    <td><img src="./assets/screenshot3.jpg" width="250"></td>
+  </tr>
+</table>
 
 ## 4. Висновки 
 

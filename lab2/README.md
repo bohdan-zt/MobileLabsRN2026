@@ -16,10 +16,21 @@
 * **Список контактів (SectionList):** Реалізовано відображення згрупованих за алфавітом контактів із закріпленням заголовків секцій під час скролінгу (`stickySectionHeadersEnabled`).
 
 ## 3. Скріншоти роботи застосунку
-![Головний екран](./assets/screenshot1.jpg)
-![Бокове меню](./assets/screenshot2.jpg)
-![Деталі новини](./assets/screenshot3.jpg)
-![Контакти](./assets/screenshot4.jpg)
+
+<table>
+  <tr>
+    <td align="center"><b>1. Головний екран</b></td>
+    <td align="center"><b>2. Бокове меню</b></td>
+    <td align="center"><b>3. Деталі новини</b></td>
+    <td align="center"><b>4. Контакти</b></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshot1.jpg" width="200"></td>
+    <td><img src="./assets/screenshot2.jpg" width="200"></td>
+    <td><img src="./assets/screenshot3.jpg" width="200"></td>
+    <td><img src="./assets/screenshot4.jpg" width="200"></td>
+  </tr>
+</table>
 
 ## 4. Висновки
 

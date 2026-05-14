@@ -18,9 +18,18 @@
 
 ## 3. Скріншоти роботи застосунку
 
-![Головний екран](./assets/screenshot1.jpg)
-![Редагування файлу](./assets/screenshot2.jpg)
-![Детальна інформація](./assets/screenshot3.jpg)
+<table>
+  <tr>
+    <td align="center"><b>1. Головний екран (Файли)</b></td>
+    <td align="center"><b>2. Редагування файлу</b></td>
+    <td align="center"><b>3. Дії з об'єктом</b></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshot1.jpg" width="250"></td>
+    <td><img src="./assets/screenshot2.jpg" width="250"></td>
+    <td><img src="./assets/screenshot3.jpg" width="250"></td>
+  </tr>
+</table>
 
 ## 4. Висновки
 
